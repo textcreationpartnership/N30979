@@ -111,9 +111,11 @@
    <text xml:lang="unk">
       <front>
          <div type="title_page">
-            <pb facs="tcp:041039_0000_101A169C4C822218"/>
-            <pb facs="tcp:041039_0001_101A0A15E6E9BF08" rendition="simple:additions"/>
-            <pb facs="tcp:041039_0002_101A16A3A25A5F60" rendition="simple:additions"/>
+            <pb facs="unknown:041039_0000_101A169C4C822218"/>
+            <pb facs="unknown:041039_0001_101A0A15E6E9BF08"
+                rendition="simple:additions"/>
+            <pb facs="unknown:041039_0002_101A16A3A25A5F60"
+                rendition="simple:additions"/>
             <p>A SERIOUS and AFFECTIONATE ADDRESS TO MANKIND, Concerning GOD and RELIGION; With reſpect to their preſent State AND Final SALVATION.</p>
             <q>
                <bibl>HAGGAI i. 7.</bibl>
@@ -127,13 +129,14 @@
             </p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:041039_0003_101A16A525D662D8" rendition="simple:additions"/>
+            <pb facs="unknown:041039_0003_101A16A525D662D8"
+                rendition="simple:additions"/>
             <p>This plain and affectionate Addreſs is humbly and earneſtly recommended to the <hi>ſerious atten<g ref="char:EOLhyphen"/>tion</hi> of all into whoſe hands it may come; be<g ref="char:EOLhyphen"/>ſeeching them neither to condemn it, nor throw it aſide, until they have <hi>duly conſidered</hi> the mat<g ref="char:EOLhyphen"/>ter it contains; and compared it with the Truth of GOD's ſacred word, the <hi>only rule</hi> by which they are to be finally accepted of GOD to everlaſting Life, or condemned by Him to everlaſting Pu<g ref="char:EOLhyphen"/>niſhment.</p>
          </div>
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:041039_0003_101A16A525D662D8"/>
+            <pb facs="unknown:041039_0003_101A16A525D662D8"/>
             <head>A SERIOUS ADDRESS, <hi>&amp;c.</hi>
             </head>
             <p>MY dear fellow Beings, permit me, though a ſtranger, with all diſintereſted love and benevolence to addreſs myſelf to you, concerning your <hi>precious ſouls</hi> and <hi>everlaſting ſtate</hi>; and let not pride, prejudice, ſloth, or unbe<g ref="char:EOLhyphen"/>lief, hinder your ſerious attention and regard to thoſe great concerns which are now preſented unto you, by one that has nothing herein in view but the honour of his Almighty Lord and Redeemer, and your preſent happineſs and eternal advan<g ref="char:EOLhyphen"/>tage.—Whatever has been your former negligence and diſre<g ref="char:EOLhyphen"/>gard to theſe things, for once ſit down and ſeriouſly conſider,</p>
@@ -151,7 +154,7 @@
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>iii. 21.
-<pb facs="tcp:041039_0004_101A16A7A3D52050"/>
+<pb facs="unknown:041039_0004_101A16A7A3D52050"/>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>om whence, as from a corrupt fountain, proceeds <hi>evil thoughts, adulteries, fornications, malice, theſts, covetouſneſs, wickedneſs, deceit, laciviouſneſs, envy, blaſph<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -185,7 +188,7 @@
                   <desc>•••</desc>
                </gap>onians, i. 7—9.</p>
             <p>
-               <pb facs="tcp:041039_0004_101A16A7A3D52050"/>The lively and affecting knowled<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb facs="unknown:041039_0004_101A16A7A3D52050"/>The lively and affecting knowled<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> 
                <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -232,7 +235,7 @@
 1 <hi>Cor.</hi> vi. 9, 10. <hi>Gal.</hi> v. 19—21. <hi>Eph.</hi> v. 5, 6. <hi>Phil.</hi> iii. 19. <hi>Col.</hi> iii. 5, 6. <hi>Rev.</hi> xxi. 8.</p>
             <p n="3">3<hi>d,</hi>
                <q>All that are <hi>malicious</hi> and <hi>revengeful; unmerciful</hi> and <hi>uncharitable</hi>; that are ſtrangers to a kind, loving, and for<g ref="char:EOLhyphen"/>giving
-<pb facs="tcp:041039_0005_101A16A926A9CFD8"/>
+<pb facs="unknown:041039_0005_101A16A926A9CFD8"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> cvii. 7.—16. <hi>Matt.</hi> vi. 15. <hi>ch.</hi> 
@@ -288,7 +291,7 @@
                <hi>Matt.</hi> vii. 22—27. <hi>Pſalm</hi> cxix 3, 6. <hi>Prov.</hi> x. 29. <hi>Rom.</hi> ii. 8, 9. <hi>Jam.</hi> ii. 10.11. 1 <hi>John</hi> iii. 6, 10. <hi>ch.</hi> v. 18.</p>
             <p n="9">9<hi>th,</hi>
                <q>All that do not <hi>ſincerely love</hi> and <hi>heartily believe</hi> in the Lord <hi>Jeſus Chriſt,</hi> as the <hi>only</hi> Hope and Saviour of ſin<g ref="char:EOLhyphen"/>ners; that ſlight and reject his great ſalvation, or deny him the glory and honour due to his great and holy Name; that entertain the fooliſh and preſumptuous conceit of a ſufficiency of <hi>merit</hi> or <hi>power</hi> in themſelves to obtain heaven and happineſs; and were never throughly convinced of their <hi>abſolute need</hi> of the Lord <hi>Jeſus</hi> to be their Saviour, not of
-<pb facs="tcp:041039_0005_101A16A926A9CFD8"/>
+<pb facs="unknown:041039_0005_101A16A926A9CFD8"/>
 their own <hi>loſt, condemned,</hi> and <hi>help<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
@@ -346,7 +349,7 @@ their own <hi>loſt, condemned,</hi> and <hi>help<gap reason="illegible" resp="#
             <p>The Scriptures aſſure us that GOD is in <hi>Chriſt Jeſus recon<g ref="char:EOLhyphen"/>ciling</hi> the world unto himſelf, <hi>pardoning</hi> their treſpaſſes, 2. <hi>Cor.</hi> v. 17.—That though all have ſinned and come ſhort of the glory of GOD, yet, if they repent and believe, they ſhall be <hi>juſtified freely</hi> by his grace, through the redemption that is in <hi>Chriſt Jeſus,</hi> by faith in his blood, <hi>&amp;c.</hi> Rom. iii. 20.—27. —That <hi>all manner of ſins</hi> and <hi>treſpaſſes</hi> ſhall be freely and fully forgiven unto men, upon their ſincere faith and repentance, in whatſoever they have offended, <hi>Mark</hi> iii. 28—30.—That the Lord <hi>Jeſus Chriſt</hi> is able and willing to <hi>ſave unto the utter<g ref="char:EOLhyphen"/>moſt</hi> all that come unto GOD by Him, <hi>Heb.</hi> vii. 25. And that <hi>by him</hi> all that believe are <hi>juſtified from all things</hi> which might condemn them, <hi>Acts</hi> xiii. 39. <hi>Rom.</hi> v. 16—20. <hi>Pſalm</hi> cxxxvii. 8. And <hi>in Him</hi> they ſhall receive all ſpiritual, heaven<g ref="char:EOLhyphen"/>ly bleſſings, <hi>wiſdom, righteouſneſs, ſanctification,</hi> and compleat <hi>Redemption,</hi> 1 Cor. i. 29. Epheſ. i. 3—12.—There is no mind ſo darkned by ignorance and ſin but he will <hi>enlighten.</hi> No heart ſo hardened by guilt but he will <hi>ſoften.</hi> No luſts or evil propenſities ſo old, ſtrong, or inveterate, but he will <hi>heal</hi> and <hi>ſubdue.</hi>—No ſins ſo numerous and aggravated, but he will <hi>pardon,</hi> to thoſe that humbly and earneſtly apply themſelves to him, and wait with conſtancy for his ſalvation. 1 <hi>Tim</hi> 1. 12—16. <hi>Matt.</hi> iv. 23. 1 <hi>Cor.</hi> vi. 9 —11. <hi>Iſa.</hi> lv. 7—9.</p>
             <p n="5">(5)
 <q>That a <hi>great</hi> and <hi>holy change,</hi> effected by the power
-<pb facs="tcp:041039_0006_101A16AB070BAE30"/>
+<pb facs="unknown:041039_0006_101A16AB070BAE30"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>, muſt paſs upon the mind, diſpoſition, <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -414,7 +417,7 @@ their own <hi>loſt, condemned,</hi> and <hi>help<gap reason="illegible" resp="#
 <q>Verily, verily, I ſay unto you, Except a man be <hi>born</hi> of water and <hi>of the Spi<g ref="char:EOLhyphen"/>rit,</hi> he cannot enter into the kingdom of GOD.</q>
                <hi>ver.</hi> 6. —And he gives this convincing reaſon of the indiſpenſible ne<g ref="char:EOLhyphen"/>ceſſity of this <hi>great change</hi> in every man, to fit him for hea<g ref="char:EOLhyphen"/>ven, namely, Becauſe that which is born of the <hi>fleſh</hi> is <hi>fleſh.</hi> Mankind deriving from their ſinful parents only a <hi>fleſhly, ſin<g ref="char:EOLhyphen"/>ful</hi> nature, are unfit for the ſervice and enjoyment of an holy GOD; and therefore as men do not gather <hi>grapes</hi> of <hi>thorns,</hi> or <hi>figs</hi> of <hi>thiſtles,</hi> or <hi>corrupt</hi> trees bring forth <hi>good</hi> fruit; ſo they muſt be <hi>born again,</hi> of GOD's holy Spirit, to an holy and ſpi<g ref="char:EOLhyphen"/>ritual <hi>life,</hi> before they can bring forth the ſpiritual <hi>fruits</hi> of true righteouſneſs and goodneſs. <hi>Matt.</hi> vii. 16—19. <hi>John</hi> iii. 7. 2 <hi>Cor.</hi> v. 14—17.</p>
             <p>This important <hi>change</hi> in a ſinner's <hi>nature</hi> is deſcribed, by being <hi>renewed</hi> in the ſpirit of their minds,—putting on the <hi>new man,</hi> after the image of GOD, in righteouſneſs and ho<g ref="char:EOLhyphen"/>lineſs—putting off the <hi>old man,</hi> with its deceitful luſts, <hi>Eph.</hi> iv. 22—24. —Walking in <hi>newneſs</hi> of life, <hi>Rom.</hi> vi. 4.— Serving GOD, in <hi>newneſs</hi> of ſpirit, <hi>Rom.</hi> vii. 6.—No longer living according to the <hi>luſts</hi> of men, but to the <hi>will</hi> of GOD, 1 <hi>Pet.</hi> iv. 6.—It is being created again in <hi>Chriſt Jeſus</hi> unto good works, <hi>Eph.</hi> ii. 10. As it is a ſpiritual life derived <hi>from</hi> Chriſt Jeſus, and continually maintained <hi>by Him,</hi> in the ſame manner as the <hi>body</hi> receives life and influence per<g ref="char:EOLhyphen"/>petually from the <hi>Head,</hi> Epheſ iv. 15, 16. Coloſ. ii. 19. And the <hi>branches</hi> of the vine produce fruit by virtue dervied
-<pb facs="tcp:041039_0006_101A16AB070BAE30"/>
+<pb facs="unknown:041039_0006_101A16AB070BAE30"/>
 from the <hi>root,</hi> John xv. 1—5.—So that <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
@@ -459,7 +462,7 @@ from the <hi>root,</hi> John xv. 1—5.—So that <gap reason="illegible" resp="
                   <desc>•</desc>
                </gap>. 9—14.</p>
             <p>
-               <pb facs="tcp:041039_0007_101A16AD07CD96D0"/>And <gap reason="illegible" resp="#PDCC" extent="1 span">
+               <pb facs="unknown:041039_0007_101A16AD07CD96D0"/>And <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> 
                <hi>what do you ſay,</hi> to all this free and won<g ref="char:EOLhyphen"/>derful lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -497,7 +500,7 @@ from the <hi>root,</hi> John xv. 1—5.—So that <gap reason="illegible" resp="
             </p>
             <p n="2">2. <hi>Conſider</hi> what <hi>great</hi> and <hi>ſure happineſs</hi> GOD will beſtow upon you, if you cordially accept of his mercy in <hi>Chriſt Jeſus,</hi> and yield yourſelf unreſervedly to his bleſſed ſervice. He will bind himſelf to you in an <hi>everlaſting covenant</hi> to be a GOD, a Father, and a Friend unto you, for time and eternity; your almighty preſerver, and conſtant benefactor, 2 <hi>Cor.</hi> vi. 16—18. <hi>Rom.</hi> viii. 14—17.—To bleſs you with <hi>all needful good</hi> here, and <hi>endleſs happineſs</hi> with himſelf in the life to come. <hi>Pſalm</hi> lxxxiv. 11. <hi>Rom.</hi> viii. 32.</p>
             <p n="3">3. <hi>Conſider</hi> what exquiſite ſelf-torturing <hi>vexation</hi> muſt ſeize upon your guilty ſpirit at death, and for ever rend it with hor<g ref="char:EOLhyphen"/>ror and deſpair, if through negligence, infidelity, or any ſinful affection, you <hi>miſs of</hi> this great ſalvation and happineſs, ſo plainly ſet before you, and freely offered unto you!—Muſt you not ſink into dreadful damnation, beyond what <hi>Heathens, Jews,</hi> or <hi>Devils</hi> themſelves ſhall endure, who never had ſo much mercy and goodneſs made known to them?—O! who
-<pb n="11" facs="tcp:041039_0007_101A16AD07CD96D0"/>
+<pb n="11" facs="unknown:041039_0007_101A16AD07CD96D0"/>
 can conceive the unſpeakable anguiſh of a <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> that finds himſelf everlaſtingly cut off from the wonderful, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -512,7 +515,7 @@ can conceive the unſpeakable anguiſh of a <gap reason="illegible" resp="#PDCC"
             <p>If you are concerned to know <hi>what you ſhould do to be ſaved?</hi> you have anſwer to this inquiry from GOD's own word, <hi>Believe on the Lord</hi> Jeſus Chriſt, <hi>and thou ſhalt be ſaved?</hi> Acts xvi. 31. Renounce all dependence upon <hi>your own</hi> wiſdom, power, and goodneſs; cordially and entirely reſign yourſelf to him, and truſt in him for <hi>all</hi> ſalvation and happineſs, 1 <hi>Cor.</hi> i. 30, 31. <hi>Acts</hi> iv. 12. And he will heal your ſinful nature, and pardon your manifold offences, <hi>Acts</hi> v. 31. —And then be di<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>igent and
-<pb n="12" facs="tcp:041039_0008_101A16AEAE062678"/>
+<pb n="12" facs="unknown:041039_0008_101A16AEAE062678"/>
 conſtant in <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e of <gap reason="illegible" resp="#PDCC" extent="1 letter">
